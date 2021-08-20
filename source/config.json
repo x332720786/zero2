@@ -1226,7 +1226,7 @@
     },
     {
       "type": "",
-      "sourceName": "TV资源",
+      "sourceName": "柚子TV",
       "baseUrl": "http://tv.aitesucai.xyz",
       "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "parserUrl": ""
