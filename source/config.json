@@ -722,20 +722,6 @@
     },
     {
       "type": "",
-      "sourceName": "百度资源",
-      "baseUrl": "http://api.dbyunzy.com/",
-      "apiUrl": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "百度云",
-      "baseUrl": "http://api.dbyunzy.com/",
-      "apiUrl": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "88资源",
       "baseUrl": "http://www.88zyw.net",
       "apiUrl": "http://www.88zyw.net/inc/api.php",
@@ -760,6 +746,13 @@
       "sourceName": "天空云",
       "baseUrl": "http://api.tiankongapi.com",
       "apiUrl": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "独播库",
+      "baseUrl": "http://api.dbyunzy.com",
+      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -844,13 +837,6 @@
       "sourceName": "安逸影院",
       "baseUrl": "http://dy.51isu.com:11801",
       "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "影派TV",
-      "baseUrl": "https://v.dtjos.com",
-      "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
