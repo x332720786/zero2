@@ -680,6 +680,13 @@
     },
     {
       "type": "",
+      "sourceName": "电影牛",
+      "baseUrl": "https://www.dianyingn.com",
+      "apiUrl": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "快播资源",
       "baseUrl": "http://www.kuaibozy.com",
       "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
