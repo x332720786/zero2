@@ -701,6 +701,13 @@
     },
     {
       "type": "",
+      "sourceName": "神马TV",
+      "baseUrl": "http://www.zitv.cc",
+      "apiUrl": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "快播资源",
       "baseUrl": "http://www.kuaibozy.com",
       "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
