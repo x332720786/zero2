@@ -848,6 +848,13 @@
     },
     {
       "type": "",
+      "sourceName": "北斗星",
+      "baseUrl": "https://v8.bdxzyapi.com",
+      "apiUrl": "https://v8.bdxzyapi.com/inc/api.php",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "免费电影",
       "baseUrl": "http://www.ruiuri.com",
       "apiUrl": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
@@ -984,6 +991,13 @@
       "sourceName": "柚子解析",
       "baseUrl": "http://tv.aitesucai.xyz",
       "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "无尽",
+      "baseUrl": "https://api.wujinapi.com",
+      "apiUrl": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "parserUrl": ""
     },
     {
