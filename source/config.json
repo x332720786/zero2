@@ -982,7 +982,7 @@
     {
       "type": "",
       "sourceName": "09tv",
-      "baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+      "baseUrl": "https://09tv.top/",
       "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
