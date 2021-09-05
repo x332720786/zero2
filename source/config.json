@@ -1087,8 +1087,6 @@
   ],
   "parseUrl": [
     "https://api.jhdyw.vip/?url=",
-    "https://okjx.cc?url=",
-    "https://egoist.parwix.com:4433/player/?url=",
     "http://api.yueliangjx.com/?url=",
     "https://www.playm3u8.cn/jiexi.php?url=",
     "https://www.xymav.com/?url=",
@@ -1109,13 +1107,15 @@
     "https://api.qianhaijishi.net/?url=",
     "https://www.91jxs.com/jiexi/?url=",
     "https://jx.ppflv.com/?url=",
+    "https://okjx.cc?url=",
     "https://www.8090.la/api/?url=",
     "https://www.1717yun.com/jiexi/?url=",
     "https://jx.ap2p.cn/?url=",
     "https://plamgtvcache.ccyjjd.com/play.php?url=",
     "https://www.nxflv.com/?url=",
     "https://vip.qvod.us/?url=",
-    "https://jx.m3u8.tv/jiexi/?url="
+    "https://jx.m3u8.tv/jiexi/?url=",
+    "https://egoist.parwix.com:4433/player/?url="
   ],
   "jsonParse": [
     "https://jiexi.bdjxfw.com/home/api?type=ys&uid=83391249&key=defiqruCFJNRTX6789&url=",
