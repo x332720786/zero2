@@ -1089,7 +1089,6 @@
     "https://api.jhdyw.vip/?url=",
     "http://api.yueliangjx.com/?url=",
     "https://jx.m3u8.tv/jiexi/?url=",
-    "https://muguang.mgtv.com.muguangys.com/jiexi.php?url=",
     "https://vip.parwix.com:4433/player/?url=",
     "https://www.playm3u8.cn/jiexi.php?url=",
     "https://www.xymav.com/?url=",
@@ -1116,9 +1115,7 @@
     "https://jx.ap2p.cn/?url=",
     "https://plamgtvcache.ccyjjd.com/play.php?url=",
     "https://www.nxflv.com/?url=",
-    "https://vip.qvod.us/?url=",
-
-    "https://egoist.parwix.com:4433/player/?url="
+    "https://vip.qvod.us/?url="
   ],
   "jsonParse": [
     "https://jiexi.bdjxfw.com/home/api?type=ys&uid=83391249&key=defiqruCFJNRTX6789&url=",
