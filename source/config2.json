@@ -1165,7 +1165,7 @@
       "type": "",
       "sourceName": "蓝猫B站",
       "baseUrl": "https://www.lmzy.cc",
-      "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/",
+      "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
