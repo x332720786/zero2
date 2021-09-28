@@ -290,15 +290,6 @@
     },
     {
       "type": "AppTV",
-      "sourceName": "293影视",
-      "baseUrl": "http://db.293ys.top:81",
-      "apiUrl": "http://db.293ys.top:81/api.php/iptv/vod",
-      "searchUrl": "http://db.293ys.top:81/api.php/iptv/vod?ac=list&zm=%s&page=1",
-      "detailUrl": "",
-      "parserUrl": ""
-    },
-    {
-      "type": "AppTV",
       "sourceName": "橙子影视",
       "baseUrl": "http://tv.aitesucai.xyz",
       "apiUrl": "http://tv.aitesucai.xyz/api.php/lh/vod",
@@ -312,15 +303,6 @@
       "baseUrl": "http://vip.ji-ding-he.site",
       "apiUrl": "http://vip.ji-ding-he.site/api.php/iptv/vod",
       "searchUrl": "http://vip.ji-ding-he.site/api.php/iptv/vod?ac=list&zm=%s&page=1",
-      "detailUrl": "",
-      "parserUrl": ""
-    },
-    {
-      "type": "AppTV",
-      "sourceName": "核桃影视",
-      "baseUrl": "http://lg.hetaoys.vip",
-      "apiUrl": "http://lg.hetaoys.vip/api.php/iptv/vod",
-      "searchUrl": "http://lg.hetaoys.vip/api.php/iptv/vod?ac=list&zm=%s&page=1",
       "detailUrl": "",
       "parserUrl": ""
     },
@@ -384,15 +366,6 @@
       "baseUrl": "http://happiness.xfykl.club",
       "apiUrl": "http://happiness.xfykl.club/api.php/lh/vod",
       "searchUrl": "http://happiness.xfykl.club/api.php/lh/vod?ac=list&wd=%s&page=1",
-      "detailUrl": "",
-      "parserUrl": ""
-    },
-    {
-      "type": "AppTV",
-      "sourceName": "柚子TV",
-      "baseUrl": "http://tvht.lanrentk.cc",
-      "apiUrl": "http://tvht.lanrentk.cc/api.php/iptv/vod",
-      "searchUrl": "http://tvht.lanrentk.cc/api.php/iptv/vod?ac=list&zm=%s&page=1",
       "detailUrl": "",
       "parserUrl": ""
     },
@@ -904,13 +877,6 @@
     },
     {
       "type": "",
-      "sourceName": "快播云",
-      "baseUrl": "http://www.kuaibozy.com",
-      "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
@@ -918,23 +884,9 @@
     },
     {
       "type": "",
-      "sourceName": "八戒资源",
-      "baseUrl": "http://cj.bajiecaiji.com",
-      "apiUrl": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "605资源",
       "baseUrl": "http://www.605zy.co",
       "apiUrl": "http://www.605zy.co/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "605云",
-      "baseUrl": "http://www.605zy.co",
-      "apiUrl": "http://www.605zy.co/inc/605m3u8.php",
       "parserUrl": ""
     },
     {
@@ -960,20 +912,6 @@
     },
     {
       "type": "",
-      "sourceName": "天空云",
-      "baseUrl": "http://api.tiankongapi.com",
-      "apiUrl": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "独播库",
-      "baseUrl": "http://api.dbyunzy.com",
-      "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "好好资源",
       "baseUrl": "http://haohaozy.com",
       "apiUrl": "http://haohaozy.com/api.php/provide/vod/at/xml",
@@ -984,13 +922,6 @@
       "sourceName": "萌果资源",
       "baseUrl": "http://api.appearoo.top",
       "apiUrl": "http://api.appearoo.top/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "速搜资源",
-      "baseUrl": "http://www.susouzy.com",
-      "apiUrl": "http://www.susouzy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -1030,23 +961,9 @@
     },
     {
       "type": "",
-      "sourceName": "恐怖鸭",
-      "baseUrl": "https://kongbuya.com",
-      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "北斗星",
       "baseUrl": "https://v8.bdxzyapi.com",
       "apiUrl": "https://v8.bdxzyapi.com/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "免费电影",
-      "baseUrl": "http://www.ruiuri.com",
-      "apiUrl": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -1061,13 +978,6 @@
       "sourceName": "安逸影院",
       "baseUrl": "http://dy.51isu.com:11801",
       "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "赞片VIP",
-      "baseUrl": "http://vip.1573i.com",
-      "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -1114,13 +1024,6 @@
     },
     {
       "type": "",
-      "sourceName": "氢视频APP",
-      "baseUrl": "http://hmgdxf.com",
-      "apiUrl": "http://hmgdxf.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "蓝果APP",
       "baseUrl": "http://www.languotv.com",
       "apiUrl": "http://www.languotv.com/api.php/provide/vod/at/xml/",
@@ -1135,13 +1038,6 @@
     },
     {
       "type": "",
-      "sourceName": "亦龙APP",
-      "baseUrl": "http://app2.yilongys.cn",
-      "apiUrl": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "淘影TV",
       "baseUrl": "http://tv.4kvod.com",
       "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
@@ -1149,23 +1045,9 @@
     },
     {
       "type": "",
-      "sourceName": "玉米影视",
-      "baseUrl": "http://yumi.video",
-      "apiUrl": "http://yumi.video/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "新女神",
       "baseUrl": "http://cms.tvbox543.com:80",
       "apiUrl": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "蓝猫B站",
-      "baseUrl": "https://www.lmzy.cc",
-      "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -1277,8 +1159,9 @@
   "parseUrl": [
     "https://api.jhdyw.vip/?url=",
     "https://okjx.cc?url=",
-    "https://jx.m3u8.tv/jiexi/?url=",
     "https://vip.parwix.com:4433/player/?url=",
+    "https://vip.jianjians.com/?url=",
+    "https://jx.m3u8.tv/jiexi/?url=",
     "https://www.playm3u8.cn/jiexi.php?url=",
     "https://www.xymav.com/?url=",
     "http://jx.quanmingjiexi.com/?url=",
@@ -1287,7 +1170,6 @@
     "https://jx5.178du.com/p1/index.php?url=",
     "https://www.cuan.la/m3u8.php?url=",
     "https://jx.xmflv.com/?url=",
-    "http://api.yueliangjx.com/?url=",
     "https://jsap.attakids.com/?url=",
     "https://123.1dior.cn/?url=",
     "https://www.h8jx.com/jiexi.php?url=",
@@ -1304,11 +1186,11 @@
     "https://jx.ap2p.cn/?url=",
     "https://plamgtvcache.ccyjjd.com/play.php?url=",
     "https://www.nxflv.com/?url=",
-    "https://vip.jianjians.com/?url=",
     "https://api.u1o.net/?url=",
     "http://feiyue.rf.gd/jx/?v=",
     "https://jx.baiyu.buzz/?url=",
     "https://vip.bljiex.com/?v=",
+    "http://api.yueliangjx.com/?url=",
     "https://vip.qvod.us/?url="
   ],
   "jsonParse": [
