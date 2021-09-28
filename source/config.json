@@ -729,7 +729,7 @@
     },
     {
       "type": "",
-      "sourceName": "八戒资源",
+      "sourceName": "八戒云",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "parserUrl": ""
