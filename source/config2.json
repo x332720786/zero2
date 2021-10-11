@@ -1157,7 +1157,6 @@
     }
   ],
   "parseUrl": [
-    "https://api.jhdyw.vip/?url=",
     "https://okjx.cc?url=",
     "https://vip.parwix.com:4433/player/?url=",
     "https://vip.jianjians.com/?url=",
@@ -1190,7 +1189,6 @@
     "http://feiyue.rf.gd/jx/?v=",
     "https://jx.baiyu.buzz/?url=",
     "https://vip.bljiex.com/?v=",
-    "http://api.yueliangjx.com/?url=",
     "https://vip.qvod.us/?url="
   ],
   "jsonParse": [
