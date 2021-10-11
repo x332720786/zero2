@@ -785,7 +785,7 @@
     },
     {
       "type": "",
-      "sourceName": "好好资源",
+      "sourceName": "好好",
       "baseUrl": "http://haohaozy.com",
       "apiUrl": "http://haohaozy.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
