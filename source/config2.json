@@ -912,6 +912,20 @@
     },
     {
       "type": "",
+      "sourceName": "椰子资源",
+      "baseUrl": "https://zy.gbxy.net.cn",
+      "apiUrl": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "麒麟资源",
+      "baseUrl": "http://www.qilinzyz.com",
+      "apiUrl": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "好好资源",
       "baseUrl": "http://haohaozy.com",
       "apiUrl": "http://haohaozy.com/api.php/provide/vod/at/xml",
