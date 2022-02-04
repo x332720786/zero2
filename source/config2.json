@@ -828,6 +828,13 @@
     },
     {
       "type": "",
+      "sourceName": "闪电资源",
+      "baseUrl": "https://sdzyapi.com/",
+      "apiUrl": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
+      "parserUrl": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
