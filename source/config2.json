@@ -831,7 +831,21 @@
       "sourceName": "闪电资源",
       "baseUrl": "https://sdzyapi.com/",
       "apiUrl": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
-      "parserUrl": "https://www.shankubf.com/m3u8/?url="
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "速更资源",
+      "baseUrl": "https://sugengzy.cn/",
+      "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "想看资源",
+      "baseUrl": "https://m3u8.xiangkanapi.com/",
+      "apiUrl": "https://m3u8.xiangkanapi.com/provide/vod/at/xml",
+      "parserUrl": ""
     },
     {
       "type": "",
