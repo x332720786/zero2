@@ -849,6 +849,13 @@
     },
     {
       "type": "",
+      "sourceName": "大米资源",
+      "baseUrl": "http://www.dmzyu.com/",
+      "apiUrl": "http://www.dmzyu.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "樱花资源",
       "baseUrl": "https://m3u8.apiyhzy.com/",
       "apiUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
