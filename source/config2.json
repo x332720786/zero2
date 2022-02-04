@@ -849,6 +849,13 @@
     },
     {
       "type": "",
+      "sourceName": "樱花资源",
+      "baseUrl": "https://m3u8.apiyhzy.com/",
+      "apiUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+      "parserUrl": "https://jx.yhzybf.com/player/jx.php?url="
+    },
+    {
+      "type": "",
       "sourceName": "八戒资源",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
