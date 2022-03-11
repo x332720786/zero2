@@ -828,6 +828,13 @@
       "baseUrl": "http://api.fqzy.cc/",
       "apiUrl": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
       "parserUrl": "https://dp.fqzy.cc/dplayer/?url="
+    },
+    {
+      "type": "",
+      "sourceName": "随便看",
+      "baseUrl": "https://www.sbkdy.com",
+      "apiUrl": "https://www.sbkdy.com/inc/api.php",
+      "parserUrl": ""
     }
   ],
   "parseUrl": [
