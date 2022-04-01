@@ -493,7 +493,7 @@
       "apiUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod",
       "searchUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
       "detailUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-      "parserUrl": ""
+      "parserUrl": "http://jx.13tv.top/?url="
     },
     {
       "type": "aiKanTv",
