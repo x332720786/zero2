@@ -842,6 +842,7 @@
     "https://vip.parwix.com:4433/player/?url=",
     "https://jx.blbo.cc:4433/?url=",
     "https://jx.m3u8.tv/jiexi/?url=",
+    "https://9kjx.com/?url=",
     "https://jx.xmflv.com/?url=",
     "https://www.playm3u8.cn/jiexi.php?url=",
     "http://jx.13tv.top/?url=",
@@ -849,12 +850,12 @@
     "https://jx.mw0.cc/?url=",
     "https://vip.laobandq.com/jiexi.php?url=",
     "https://www.ckmov.vip/api.php?url=",
-    "https://www.chok8.com//jx//?url=",
+    "https://www.chok8.com//jx//?url=",,
+    "https://vip.bljiex.com/?v="
     "https://www.8090.la/api/?url=",
     "https://www.1717yun.com/jiexi/?url=",
     "https://www.ckplayer.vip/jiexi/?url=",
-    "https://plamgtvcache.ccyjjd.com/play.php?url=",
-    "https://vip.bljiex.com/?v="
+    "https://plamgtvcache.ccyjjd.com/play.php?url="
   ],
   "jsonParse": [
     "https://api.parwix.com:4433/analysis/json/?uid=654&my=abdeinruvxyBDORWX7&url=",
