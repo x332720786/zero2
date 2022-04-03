@@ -726,6 +726,13 @@
     },
     {
       "type": "",
+      "sourceName": "人人迷",
+      "baseUrl": "https://koko.renrenmi.cc/",
+      "apiUrl": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "m3u8.TV",
       "baseUrl": "http://www.zycaiji.net:7788",
       "apiUrl": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
@@ -814,6 +821,7 @@
     "https://vip.parwix.com:4433/player/?url=",
     "https://api.jhdyw.vip/?url=",
     "https://jx.5imv.net/m3u8.php?url=",
+    "http://aliys.cn:89/?url=",
     "https://9kjx.com/?url=",
     "https://jx.blbo.cc:4433/?url=",
     "http://60jx.com/?url=",
