@@ -635,10 +635,10 @@
     },
     {
       "type": "",
-      "sourceName": "速更",
-      "baseUrl": "https://sugengzy.cn/",
-      "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
-      "parserUrl": "https://wuxiezx.com/player/?url="
+      "sourceName": "饭团",
+      "baseUrl": "http://television.wkfile.com/",
+      "apiUrl": "http://television.wkfile.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
     },
     {
       "type": "",
@@ -814,6 +814,13 @@
       "baseUrl": "https://www.sbkdy.com",
       "apiUrl": "https://www.sbkdy.com/inc/api.php",
       "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "速更",
+      "baseUrl": "https://sugengzy.cn/",
+      "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
+      "parserUrl": "https://wuxiezx.com/player/?url="
     }
   ],
   "parseUrl": [
