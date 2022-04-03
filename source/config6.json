@@ -493,7 +493,7 @@
       "apiUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod",
       "searchUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
       "detailUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-      "parserUrl": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url="
+      "parserUrl": ""
     },
     {
       "type": "aiKanTv",
@@ -502,7 +502,7 @@
       "apiUrl": "http://iapp.nfuxs.club/dnmb.php/v1.vod",
       "searchUrl": "http://iapp.nfuxs.club/dnmb.php/v1.vod?page=1&limit=10&wd=%s",
       "detailUrl": "http://iapp.nfuxs.club/dnmb.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-      "parserUrl": "https://ltnb.jeeves.vip/home/api?type=ys&uid=2509623&key=glnpyADKLMNOTU0249&url="
+      "parserUrl": ""
     },
     {
       "type": "aiKanTv",
