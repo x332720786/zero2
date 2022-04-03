@@ -826,6 +826,7 @@
   "parseUrl": [
     "https://okjx.cc?url=",
     "https://api.okjx.cc:3389/jx.php?url=",
+    "https://jx.parwix.com:4433/player/?url=",
     "https://jx.parwix.com:4433/player/analysis.php?v=",
     "https://vip.parwix.com:4433/player/?url=",
     "https://api.jhdyw.vip/?url=",
