@@ -638,14 +638,7 @@
       "sourceName": "速更",
       "baseUrl": "https://sugengzy.cn/",
       "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "想看",
-      "baseUrl": "https://m3u8.xiangkanapi.com/",
-      "apiUrl": "https://m3u8.xiangkanapi.com/provide/vod/at/xml",
-      "parserUrl": ""
+      "parserUrl": "https://wuxiezx.com/player/?url="
     },
     {
       "type": "",
@@ -726,13 +719,6 @@
     },
     {
       "type": "",
-      "sourceName": "播放呀APP",
-      "baseUrl": "https://www.bofangya.com",
-      "apiUrl": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "小蜻蜓APP",
       "baseUrl": "http://3ketv.com",
       "apiUrl": "http://3ketv.com/api.php/provide/vod/at/xml",
@@ -743,13 +729,6 @@
       "sourceName": "m3u8.TV",
       "baseUrl": "http://www.zycaiji.net:7788",
       "apiUrl": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "椰子",
-      "baseUrl": "https://zy.gbxy.net.cn",
-      "apiUrl": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -785,13 +764,6 @@
       "sourceName": "阿里",
       "baseUrl": "http://www.feishi.ltd/",
       "apiUrl": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "淘影TV",
-      "baseUrl": "http://tv.4kvod.com",
-      "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
@@ -850,8 +822,8 @@
     "https://jx.mw0.cc/?url=",
     "https://vip.laobandq.com/jiexi.php?url=",
     "https://www.ckmov.vip/api.php?url=",
-    "https://www.chok8.com//jx//?url=",,
-    "https://vip.bljiex.com/?v="
+    "https://www.chok8.com//jx//?url=",
+    "https://vip.bljiex.com/?v=",
     "https://www.8090.la/api/?url=",
     "https://www.1717yun.com/jiexi/?url=",
     "https://www.ckplayer.vip/jiexi/?url=",
@@ -864,7 +836,8 @@
     "https://jsnn.wuqcms.com/api/?key=u93ubpZtqXYAjsKt3f&url=",
     "https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url=",
     "https://jhjx.ptygx.com/?url=",
-    "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="
+    "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url=",
+    "http://api.vip123kan.vip/?url="
   ],
   "ad": [
     "mimg.0c1q0l.cn",
