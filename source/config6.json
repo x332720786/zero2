@@ -729,7 +729,7 @@
       "sourceName": "人人迷",
       "baseUrl": "https://koko.renrenmi.cc/",
       "apiUrl": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
-      "parserUrl": "https://jx.blbo.cc:4433/?url="
+      "parserUrl": ""
     },
     {
       "type": "",
