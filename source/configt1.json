@@ -677,27 +677,6 @@
     },
     {
       "type": "",
-      "sourceName": "605",
-      "baseUrl": "http://www.605zy.co",
-      "apiUrl": "http://www.605zy.co/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "88",
-      "baseUrl": "http://www.88zyw.net",
-      "apiUrl": "http://www.88zyw.net/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "最快",
-      "baseUrl": "http://cj.1886zy.co",
-      "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "天空",
       "baseUrl": "http://api.tiankongapi.com",
       "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
