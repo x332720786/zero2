@@ -677,6 +677,13 @@
     },
     {
       "type": "",
+      "sourceName": "鱼乐",
+      "baseUrl": "https://api.yulecj.com/",
+      "apiUrl": "https://api.yulecj.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "八戒",
       "baseUrl": "http://cj.bajiecaiji.com",
       "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
