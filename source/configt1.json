@@ -663,6 +663,13 @@
     },
     {
       "type": "",
+      "sourceName": "光速",
+      "baseUrl": "https://api.guangsuapi.com/",
+      "apiUrl": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "飞速",
       "baseUrl": "https://www.feisuzyapi.com/",
       "apiUrl": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
