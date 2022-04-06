@@ -664,8 +664,8 @@
     {
       "type": "",
       "sourceName": "飞速",
-      "baseUrl": "https://m3u8.feisuzyapi.com",
-      "apiUrl": "https://m3u8.feisuzyapi.com/vod/at/xml",
+      "baseUrl": "https://www.feisuzyapi.com/",
+      "apiUrl": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
       "parserUrl": ""
     },
     {
