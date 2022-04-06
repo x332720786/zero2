@@ -628,6 +628,13 @@
     },
     {
       "type": "",
+      "sourceName": "北斗星",
+      "baseUrl": "https://v8.bdxzyapi.com",
+      "apiUrl": "https://v8.bdxzyapi.com/inc/api.php",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "闪电",
       "baseUrl": "https://sdzyapi.com/",
       "apiUrl": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
@@ -649,16 +656,9 @@
     },
     {
       "type": "",
-      "sourceName": "饭团",
-      "baseUrl": "http://television.wkfile.com/",
-      "apiUrl": "http://television.wkfile.com/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "片库",
-      "baseUrl": "https://pianku.wang",
-      "apiUrl": "https://pianku.wang/api.php/provide/vod/at/xml",
+      "sourceName": "想看",
+      "baseUrl": "https://m3u8.xiangkanapi.com/",
+      "apiUrl": "https://m3u8.xiangkanapi.com/api.php/provide/vod/from/xkm3u8/at/xml/",
       "parserUrl": ""
     },
     {
@@ -666,13 +666,6 @@
       "sourceName": "飞速",
       "baseUrl": "https://www.feisuzyapi.com/",
       "apiUrl": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "PZ影视",
-      "baseUrl": "https://puz.pub/",
-      "apiUrl": "https://puz.pub/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -712,13 +705,6 @@
     },
     {
       "type": "",
-      "sourceName": "北斗星",
-      "baseUrl": "https://v8.bdxzyapi.com",
-      "apiUrl": "https://v8.bdxzyapi.com/inc/api.php",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
       "sourceName": "兔子窝",
       "baseUrl": "http://cj.huimaojia.com:12345/",
       "apiUrl": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
@@ -733,9 +719,9 @@
     },
     {
       "type": "",
-      "sourceName": "人人迷",
-      "baseUrl": "https://koko.renrenmi.cc/",
-      "apiUrl": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
+      "sourceName": "片库",
+      "baseUrl": "https://pianku.wang",
+      "apiUrl": "https://pianku.wang/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -782,6 +768,20 @@
     },
     {
       "type": "",
+      "sourceName": "人人迷",
+      "baseUrl": "https://koko.renrenmi.cc/",
+      "apiUrl": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "饭团",
+      "baseUrl": "http://television.wkfile.com/",
+      "apiUrl": "http://television.wkfile.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "39看",
       "baseUrl": "https://www.39kan.com",
       "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
@@ -824,10 +824,17 @@
     },
     {
       "type": "",
-      "sourceName": "速更",
+      "sourceName": "速更自解",
       "baseUrl": "https://sugengzy.cn/",
       "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "parserUrl": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "type": "",
+      "sourceName": "PZ影视",
+      "baseUrl": "https://puz.pub/",
+      "apiUrl": "https://puz.pub/api.php/provide/vod/at/xml",
+      "parserUrl": ""
     }
   ],
   "parseUrl": [
