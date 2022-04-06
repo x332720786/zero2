@@ -628,6 +628,13 @@
     },
     {
       "type": "",
+      "sourceName": "U酷",
+      "baseUrl": "https://api.ukuapi.com/",
+      "apiUrl": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "闪电",
       "baseUrl": "https://sdzyapi.com/",
       "apiUrl": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
