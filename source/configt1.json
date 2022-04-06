@@ -629,8 +629,8 @@
     {
       "type": "",
       "sourceName": "北斗星",
-      "baseUrl": "https://v8.bdxzyapi.com",
-      "apiUrl": "https://v8.bdxzyapi.com/inc/api.php",
+      "baseUrl": "https://api.bdxapi.com/",
+      "apiUrl": "https://api.bdxapi.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
