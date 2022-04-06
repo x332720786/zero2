@@ -635,6 +635,20 @@
     },
     {
       "type": "",
+      "sourceName": "CK",
+      "baseUrl": "https://ckzy.me/",
+      "apiUrl": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
+      "sourceName": "卧龙",
+      "baseUrl": "https://collect.wolongzyw.com/",
+      "apiUrl": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "饭团",
       "baseUrl": "http://television.wkfile.com/",
       "apiUrl": "http://television.wkfile.com/api.php/provide/vod/at/xml",
@@ -708,13 +722,6 @@
       "sourceName": "兔子窝",
       "baseUrl": "http://cj.huimaojia.com:12345/",
       "apiUrl": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
-      "parserUrl": ""
-    },
-    {
-      "type": "",
-      "sourceName": "乐播",
-      "baseUrl": "https://www.lebo.la/",
-      "apiUrl": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
