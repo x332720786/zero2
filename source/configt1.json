@@ -810,6 +810,13 @@
     },
     {
       "type": "",
+      "sourceName": "淘片",
+      "baseUrl": "https://taopianapi.com/",
+      "apiUrl": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "速更自解",
       "baseUrl": "https://sugengzy.cn/",
       "apiUrl": "https://sugengzy.cn/api.php/provide/vod/at/xml",
