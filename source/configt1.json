@@ -789,6 +789,13 @@
     },
     {
       "type": "",
+      "sourceName": "酷点",
+      "baseUrl": "https://kudian10.com/",
+      "apiUrl": "https://kudian10.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "番茄资源",
       "baseUrl": "http://api.fqzy.cc/",
       "apiUrl": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
