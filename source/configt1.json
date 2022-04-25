@@ -621,6 +621,13 @@
     },
     {
       "type": "",
+      "sourceName": "红牛",
+      "baseUrl": "https://www.hongniuzy2.com/",
+      "apiUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
+      "parserUrl": ""
+    },
+    {
+      "type": "",
       "sourceName": "无尽",
       "baseUrl": "https://api.wujinapi.com",
       "apiUrl": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
