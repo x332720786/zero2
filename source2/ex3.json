@@ -3,17 +3,17 @@
     {
       "apiName": "555电影",
       "apiType": "path",
-      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/555%E7%94%B5%E5%BD%B12.json"
+      "apiExt": "https://pj567.coding.net/p/source/d/source/git/raw/master/spider/ext/555.json"
     },
      {
       "apiName": "剧白拍",
       "apiType": "path",
-      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/%E5%89%A7%E7%99%BD%E7%99%BD-%E8%93%9D%E5%85%89.json"
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/jubaibai.json"
     },
      {
       "apiName": "厂长",
       "apiType": "path",
-      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/changzhang.json"
     },
      {
       "apiName": "M3U8.TV",
