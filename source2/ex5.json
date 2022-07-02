@@ -21,6 +21,11 @@
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/lib.json"
     },
      {
+      "apiName": "在线之家",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/zxzj.json"
+    },
+     {
       "apiName": "M3U8.TV",
       "apiType": "json",
       "apiExt": "http://www.zycaiji.net:7788/api.php/provide/vod"
