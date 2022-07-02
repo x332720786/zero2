@@ -69,7 +69,7 @@
       "apiName": "ck",
       "apiType": "xml",
       "apiExt": "https://ckzy.me/api.php/provide/vod/at/xml"
-    },
+    }
   ],
   "parseJson": [
     {
