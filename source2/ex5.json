@@ -6,7 +6,7 @@
       "apiExt": "https://pj567.coding.net/p/source/d/source/git/raw/master/spider/ext/555.json"
     },
      {
-      "apiName": "剧白拍",
+      "apiName": "剧白白",
       "apiType": "path",
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/jubaibai.json"
     },
@@ -14,6 +14,11 @@
       "apiName": "厂长",
       "apiType": "path",
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/changzhang.json"
+    },
+     {
+      "apiName": "LIBVIO",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/lib.json"
     },
      {
       "apiName": "M3U8.TV",
