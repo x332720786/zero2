@@ -17,7 +17,7 @@
     },
      {
       "apiName": "cokemv",
-      "apiType": "MeowXB",
+      "apiType": "path",
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/COKEMV.json"
     },
      {
