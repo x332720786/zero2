@@ -1,0 +1,219 @@
+{
+  "vodApi": [
+    {
+      "apiName": "555电影",
+      "apiType": "path",
+      "apiExt": "https://pj567.coding.net/p/source/d/source/git/raw/master/spider/ext/555.json"
+    },
+     {
+      "apiName": "M3U8.TV",
+      "apiType": "json",
+      "apiExt": "http://www.zycaiji.net:7788/api.php/provide/vod"
+    },
+     {
+      "apiName": "天堂",
+      "apiType": "json",
+      "apiExt": "http://vipmv.cc/api.php/provide/vod"
+    },
+     {
+      "apiName": "淘剧社",
+      "apiType": "v1.vod",
+      "apiExt": "http://app.shuhai99.com/api.php/v1.vod"
+    },
+     {
+      "apiName": "我的影视",
+      "apiType": "vod.wd",
+      "apiExt": "http://www.wsba.com.cn/api.php/lh/vod"
+    },
+     {
+      "apiName": "2号币",
+      "apiType": "vod.zm",
+      "apiExt": "http://phoebe.cf/api.php/iptv/vod"
+    },
+     {
+      "apiName": "海胆影视",
+      "apiType": "app",
+      "apiExt": "http://xf123.cc/api.php/app"
+    },
+     {
+      "apiName": "天天看",
+      "apiType": "xml",
+      "apiExt": "https://www.ttky8.com/api.php/provide/vod/at/xml"
+    },
+     {
+      "apiName": "快播",
+      "apiType": "xml",
+      "apiExt": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
+    },
+     {
+      "apiName": "红牛",
+      "apiType": "xml",
+      "apiExt": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/"
+    },
+     {
+      "apiName": "无尽",
+      "apiType": "xml",
+      "apiExt": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/"
+    },
+     {
+      "apiName": "ck",
+      "apiType": "xml",
+      "apiExt": "https://ckzy.me/api.php/provide/vod/at/xml"
+    },
+  ],
+  "parseJson": [
+    {
+      "parseName": "解析1",
+      "parseUrl": "http://json.ysys.asia/home/api?type=ys&uid=277542&key=eghkqsyzBFIY234568&url="
+    }
+  ],
+  "parseUrls": [
+    "https://okjx.cc?url=",
+    "https://jx.parwix.com:4433/player/?url=",
+    "https://jx.ppflv.com/?url=",
+    "https://jx.blbo.cc:4433/?url=",
+    "https://jsap.attakids.com/?url=",
+    "https://xrm3u8.qd234.cn/?url=",
+    "https://m2090.com/?url=",
+    "http://jx.quanmingjiexi.com/?url=",
+    "https://www.daga.cc/vip1/?url=",
+    "https://jx.m3u8.tv/jiexi/?url=",
+    "https://vip.kkflv.net/api/?url=",
+    "https://api.aoteman.tv/?url=",
+    "https://api.jhdyw.vip/jhcs/bfq/?url=",
+    "https://jx.973973.xyz/?url=",
+    "https://jx.xmflv.com/?url=",
+    "https://y.9dan.cc/?v=",
+    "https://jx.aidouer.net/?url=",
+    "http://jx.yekong.cc/dmplay/?url=",
+    "https://vip.cygc.xyz/?url=",
+    "https://jx.gbxy.net.cn/?url="
+  ],
+  "parseFlag": [
+    "renrenmi",
+    "ltnb",
+    "CL4K",
+    "LT-"
+  ],
+  "officialFlag": [
+    "youku.com",
+    "1905.com",
+    "pptv.com",
+    "bilibili.com",
+    "sohu.com",
+    "le.com",
+    "qq.com",
+    "iqiyi.com",
+    "mgtv.com"
+  ],
+  "official": [
+    {
+      "name": "爱奇艺",
+      "url": "https://m.iqiyi.com/"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://m.v.qq.com/"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://m.mgtv.com/"
+    },
+    {
+      "name": "优酷视频",
+      "url": "https://www.youku.com/"
+    },
+    {
+      "name": "搜狐视频",
+      "url": "https://m.tv.sohu.com/"
+    },
+    {
+      "name": "B站视频",
+      "url": "https://m.bilibili.com/"
+    },
+    {
+      "name": "乐视视频",
+      "url": "https://m.le.com/"
+    },
+    {
+      "name": "1905视频",
+      "url": "https://m.1905.com/"
+    },
+    {
+      "name": "PPTV视频",
+      "url": "https://m.pptv.com/"
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    ".cnzz.com",
+    "stj.v1vo.top",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "xg.huataisangao.cn",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com",
+    ".sq88.press",
+    "mg.hxhhb120.cn",
+    "mg.miaolejieshui.cn",
+    "xc.cdhxhhb.cn",
+    "xg.cdhhbyy.cn",
+    "k.13hangpifa.com",
+    "thefatherofsalmon.com",
+    ".51.la",
+    ".jiubojx.com",
+    "www.bmbaike.cn",
+    "cdnjs.xmlanshu.com",
+    "cdn0.sxhjty.cn",
+    "an5.uyueread.com",
+    "img.sdzqx7d.cn",
+    "m.yqqlm.vip",
+    "wap.xwkchcl.top",
+    "pv.sohu.com",
+    "www.q4ee.top",
+    "cdn.wmnvhai.com",
+    "api.zhongwenqing.com",
+    "kxv.kxvuv.com",
+    "hm.baidu.com",
+    "cdn.7nsc.cn"
+  ],
+  "spider": {
+    "url": "https://pj567.coding.net/p/source/d/source/git/raw/master/spider/custom_spider.jar",
+    "md5": "a51b4ff7a14e12aa5d090e4948b5d710"
+  },
+  "key":"0629",
+  "hint": "声明：该软件所有资源来自网上，不参与任何制作、上传、下载、存储等内容，仅供学习参考，禁止商用"
+}
