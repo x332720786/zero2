@@ -6,6 +6,16 @@
       "apiExt": "https://pj567.coding.net/p/source/d/source/git/raw/master/spider/ext/555.json"
     },
      {
+      "apiName": "555电影2",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/555电影2.json"
+    },
+     {
+      "apiName": "瓜皮TV",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/瓜皮TV.json"
+    },
+     {
       "apiName": "剧白白",
       "apiType": "path",
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/jubaibai.json"
@@ -24,6 +34,26 @@
       "apiName": "在线之家",
       "apiType": "path",
       "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/zxzj.json"
+    },
+     {
+      "apiName": "达达龟",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/dadagui.json"
+    },
+     {
+      "apiName": "94神马",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/94sm.json"
+    },
+     {
+      "apiName": "乐猪TV",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/lezhutv.json"
+    },
+     {
+      "apiName": "AGEfans",
+      "apiType": "path",
+      "apiExt": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/agefans.json"
     },
      {
       "apiName": "M3U8.TV",
