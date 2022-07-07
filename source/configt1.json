@@ -255,6 +255,7 @@
     "https://www.chok8.com//jx//?url="
   ],
   "jsonParse": [
+    "http://json.ysys.asia/home/api?type=ys&uid=277542&key=eghkqsyzBFIY234568&url=",
     "https://jx.parwix.com:4433/player/?url=",
     "https://api.parwix.com:4433/analysis/json/?uid=654&my=abdeinruvxyBDORWX7&url=",
     "https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=",
