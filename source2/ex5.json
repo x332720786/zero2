@@ -104,12 +104,13 @@
   "parseJson": [
     {
       "parseName": "解析1",
-      "parseUrl": "http://json.ysys.asia/home/api?type=ys&uid=277542&key=eghkqsyzBFIY234568&url="
+      "parseUrl": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     }
   ],
   "parseUrls": [
+    "https://jx.xmflv.com/?url=",
     "https://okjx.cc?url=",
-    "https://jx.parwix.com:4433/player/?url=",
+    "https://jx.bozrc.com:4433/player/?url=",
     "https://jx.ppflv.com/?url=",
     "https://jx.blbo.cc:4433/?url=",
     "https://jsap.attakids.com/?url=",
@@ -122,7 +123,6 @@
     "https://api.aoteman.tv/?url=",
     "https://api.jhdyw.vip/jhcs/bfq/?url=",
     "https://jx.973973.xyz/?url=",
-    "https://jx.xmflv.com/?url=",
     "https://y.9dan.cc/?v=",
     "https://jx.aidouer.net/?url=",
     "http://jx.yekong.cc/dmplay/?url=",
