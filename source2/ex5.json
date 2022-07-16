@@ -96,6 +96,11 @@
       "apiExt": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/"
     },
      {
+      "apiName": "卧龙",
+      "apiType": "xml",
+      "apiExt": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/"
+    },
+     {
       "apiName": "ck",
       "apiType": "xml",
       "apiExt": "https://ckzy.me/api.php/provide/vod/at/xml"
