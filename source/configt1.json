@@ -231,6 +231,7 @@
     }
   ],
   "parseUrl": [
+    "https://jx.xmflv.com/?url=",
     "https://okjx.cc?url=",
     "https://jx.bozrc.com:4433/player/?url=",
     "https://jhjx.kuanjv.com/newky/?url=",
@@ -238,7 +239,6 @@
     "http://jx.vipmv.co/?url=",
     "https://www.administratorw.com/video.php?url=",
     "https://9kjx.com/?url=",
-    "https://jx.xmflv.com/?url=",
     "https://jx.blbo.cc:4433/?url=",
     "http://60jx.com/?url=",
     "https://jx.m3u8.tv/jiexi/?url=",
@@ -252,7 +252,7 @@
     "https://www.chok8.com//jx//?url="
   ],
   "jsonParse": [
-    "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    "https://jx.xmflv.com/?url="
   ],
   "ad": [
     "mimg.0c1q0l.cn",
